@@ -1,0 +1,15 @@
+/Users/caitlinjohnson/Documents/mis221/mis-221-lab-4-crjohnson24/obj/Debug/net7.0/mis-221-lab-4-crjohnson24.csproj.AssemblyReference.cache
+/Users/caitlinjohnson/Documents/mis221/mis-221-lab-4-crjohnson24/obj/Debug/net7.0/mis-221-lab-4-crjohnson24.GeneratedMSBuildEditorConfig.editorconfig
+/Users/caitlinjohnson/Documents/mis221/mis-221-lab-4-crjohnson24/obj/Debug/net7.0/mis-221-lab-4-crjohnson24.AssemblyInfoInputs.cache
+/Users/caitlinjohnson/Documents/mis221/mis-221-lab-4-crjohnson24/obj/Debug/net7.0/mis-221-lab-4-crjohnson24.AssemblyInfo.cs
+/Users/caitlinjohnson/Documents/mis221/mis-221-lab-4-crjohnson24/obj/Debug/net7.0/mis-221-lab-4-crjohnson24.csproj.CoreCompileInputs.cache
+/Users/caitlinjohnson/Documents/mis221/mis-221-lab-4-crjohnson24/bin/Debug/net7.0/mis-221-lab-4-crjohnson24
+/Users/caitlinjohnson/Documents/mis221/mis-221-lab-4-crjohnson24/bin/Debug/net7.0/mis-221-lab-4-crjohnson24.deps.json
+/Users/caitlinjohnson/Documents/mis221/mis-221-lab-4-crjohnson24/bin/Debug/net7.0/mis-221-lab-4-crjohnson24.runtimeconfig.json
+/Users/caitlinjohnson/Documents/mis221/mis-221-lab-4-crjohnson24/bin/Debug/net7.0/mis-221-lab-4-crjohnson24.dll
+/Users/caitlinjohnson/Documents/mis221/mis-221-lab-4-crjohnson24/bin/Debug/net7.0/mis-221-lab-4-crjohnson24.pdb
+/Users/caitlinjohnson/Documents/mis221/mis-221-lab-4-crjohnson24/obj/Debug/net7.0/mis-221-lab-4-crjohnson24.dll
+/Users/caitlinjohnson/Documents/mis221/mis-221-lab-4-crjohnson24/obj/Debug/net7.0/refint/mis-221-lab-4-crjohnson24.dll
+/Users/caitlinjohnson/Documents/mis221/mis-221-lab-4-crjohnson24/obj/Debug/net7.0/mis-221-lab-4-crjohnson24.pdb
+/Users/caitlinjohnson/Documents/mis221/mis-221-lab-4-crjohnson24/obj/Debug/net7.0/mis-221-lab-4-crjohnson24.genruntimeconfig.cache
+/Users/caitlinjohnson/Documents/mis221/mis-221-lab-4-crjohnson24/obj/Debug/net7.0/ref/mis-221-lab-4-crjohnson24.dll
